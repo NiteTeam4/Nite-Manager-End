@@ -1,0 +1,10 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/express/node_modules/.bin/mime","time":"2022-09-11T06:31:50Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/quick.db/node_modules/.bin/detect-libc","time":"2022-09-11T06:31:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/quick.db/node_modules/.bin/mkdirp","time":"2022-09-11T06:31:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/quick.db/node_modules/.bin/prebuild-install","time":"2022-09-11T06:31:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/quick.db/node_modules/.bin/rc","time":"2022-09-11T06:31:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/quick.db/node_modules/.bin/semver","time":"2022-09-11T06:31:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/weather-js/node_modules/.bin/sshpk-conv","time":"2022-09-11T06:31:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/weather-js/node_modules/.bin/sshpk-sign","time":"2022-09-11T06:31:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/weather-js/node_modules/.bin/sshpk-verify","time":"2022-09-11T06:31:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/weather-js/node_modules/.bin/uuid","time":"2022-09-11T06:31:53Z"}
